@@ -1,0 +1,36 @@
+%YAML 1.1
+---
+title: Porto
+logo: images/cm-porto.svg
+target: images/cmp.png
+coords:
+  src:
+  - - 41.1464
+    - -8.6668
+  - - 41.14836
+    - -8.64055
+  - - 41.17183
+    - -8.59542
+  dst:
+  - - 335
+    - 416
+  - - 503
+    - 400
+  - - 792
+    - 200
+layers:
+- name: Parishes
+  file: geojson/freguesias.json
+  description: The municipality of Porto consists of seven parishes. In fact, three of them are "Unions" of parishes, resulting from the administrative reform implemented in 2013. In Porto, there are three unions and four parishes that maintained their configuration.
+- name: Points of Interest
+  file: geojson/poi.json
+  description: Porto offers a lot of interesting venues to visit, rich in natural and cultural value, and of great historical significance as well.<br/> The well-preserved urban landscape illustrates the successful fusion of both traditional and contemporary styles.
+- name: Green Areas
+  file: geojson/green.json
+  description: Porto is a city that has managed to maintain its charm. The City Parks and Gardens like Jardim do Passeio Alegre, Covelo and Jardim de S. Lázaro, a walk by the ocean or a boat visit along Douro will provide the necessary encounter with nature.
+- name: Mobility
+  file: geojson/mobility.json
+  description: Porto is transitioning to integrated mobility, which includes expanding and improving the city’s public-transit network and the bet on public vehicle electrification.
+- name: Urban Rehabilitation Areas
+  file: geojson/arus.json
+  description: New designated urban rehabilitation areas (ARU’s) are being added to existing ones, reaching ten in total which covers 36% of the city’s territory.<br/> Rehabilitation projects in these areas enjoy exemption from or reduction in municipal taxes.

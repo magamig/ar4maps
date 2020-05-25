@@ -1,0 +1,1676 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": "unknown",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "city_poi_polygon.fid--76d6a859_1709562c68b_-7bb6",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.655335,
+                            41.158623
+                        ],
+                        [
+                            -8.655638,
+                            41.158017
+                        ],
+                        [
+                            -8.655599,
+                            41.156438
+                        ],
+                        [
+                            -8.655635,
+                            41.156126
+                        ],
+                        [
+                            -8.65575,
+                            41.155911
+                        ],
+                        [
+                            -8.655714,
+                            41.155505
+                        ],
+                        [
+                            -8.656019,
+                            41.155151
+                        ],
+                        [
+                            -8.656107,
+                            41.154741
+                        ],
+                        [
+                            -8.655942,
+                            41.154355
+                        ],
+                        [
+                            -8.65545,
+                            41.153783
+                        ],
+                        [
+                            -8.65526,
+                            41.153452
+                        ],
+                        [
+                            -8.655826,
+                            41.153772
+                        ],
+                        [
+                            -8.656268,
+                            41.1538
+                        ],
+                        [
+                            -8.657142,
+                            41.153609
+                        ],
+                        [
+                            -8.657658,
+                            41.154474
+                        ],
+                        [
+                            -8.658315,
+                            41.155202
+                        ],
+                        [
+                            -8.658692,
+                            41.155745
+                        ],
+                        [
+                            -8.658463,
+                            41.156321
+                        ],
+                        [
+                            -8.658483,
+                            41.156744
+                        ],
+                        [
+                            -8.658209,
+                            41.15743
+                        ],
+                        [
+                            -8.659467,
+                            41.15793
+                        ],
+                        [
+                            -8.659885,
+                            41.157689
+                        ],
+                        [
+                            -8.659931,
+                            41.157403
+                        ],
+                        [
+                            -8.660089,
+                            41.15734
+                        ],
+                        [
+                            -8.660506,
+                            41.157949
+                        ],
+                        [
+                            -8.660529,
+                            41.15819
+                        ],
+                        [
+                            -8.659783,
+                            41.160007
+                        ],
+                        [
+                            -8.659578,
+                            41.160164
+                        ],
+                        [
+                            -8.658177,
+                            41.160708
+                        ],
+                        [
+                            -8.655022,
+                            41.159182
+                        ],
+                        [
+                            -8.655335,
+                            41.158623
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "polygon",
+            "properties": {
+                "id": 9,
+                "segment": "place",
+                "show_polygon": true,
+                "title": "Serralves Museum of Contemporary Art",
+                "description": "The Serralves Museum is Portugal’s leading Contemporary Art Museum, designed by architect Siza Vieira and located in the unique location of the Serralves Foundation, which includes the Park and the Villa.",
+                "photos": [
+                    "/media/9.png",
+                    "/media/%C2%A9Miguel_Nogueira_Fundacao_Serralves_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Miguel_Nogueira_Fundacao_Serralves_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_polygon.fid--76d6a859_1709562c68b_-7bb5",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.630359,
+                            41.158294
+                        ],
+                        [
+                            -8.630418,
+                            41.158265
+                        ],
+                        [
+                            -8.631737,
+                            41.158484
+                        ],
+                        [
+                            -8.631436,
+                            41.159111
+                        ],
+                        [
+                            -8.630846,
+                            41.159504
+                        ],
+                        [
+                            -8.63044,
+                            41.159293
+                        ],
+                        [
+                            -8.629991,
+                            41.158737
+                        ],
+                        [
+                            -8.630359,
+                            41.158294
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "polygon",
+            "properties": {
+                "id": 8,
+                "segment": "place",
+                "show_polygon": true,
+                "title": "Casa da Música",
+                "description": "Casa da Música was designed by the Dutch architect Rem Koolhaas, and it was inaugurated in 2005. Since then it has become an icon of contemporary architecture, hosting the most interesting arts and cultural events and attracting visitors from many different parts of the world.",
+                "photos": [
+                    "/media/8.png",
+                    "/media/%C2%A9Filipa_Brito_Casa_da_Musica_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Miguel_Nogueira__Casa_da_Musica_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_polygon.fid--76d6a859_1709562c68b_-7bb4",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.674462,
+                            41.151811
+                        ],
+                        [
+                            -8.674584,
+                            41.151111
+                        ],
+                        [
+                            -8.674421,
+                            41.151101
+                        ],
+                        [
+                            -8.674357,
+                            41.150992
+                        ],
+                        [
+                            -8.674042,
+                            41.151014
+                        ],
+                        [
+                            -8.673932,
+                            41.150874
+                        ],
+                        [
+                            -8.673522,
+                            41.151086
+                        ],
+                        [
+                            -8.673631,
+                            41.151258
+                        ],
+                        [
+                            -8.673363,
+                            41.151284
+                        ],
+                        [
+                            -8.673182,
+                            41.151415
+                        ],
+                        [
+                            -8.672893,
+                            41.151394
+                        ],
+                        [
+                            -8.672423,
+                            41.151465
+                        ],
+                        [
+                            -8.672224,
+                            41.151577
+                        ],
+                        [
+                            -8.67185,
+                            41.151584
+                        ],
+                        [
+                            -8.671621,
+                            41.151066
+                        ],
+                        [
+                            -8.671692,
+                            41.151032
+                        ],
+                        [
+                            -8.67148,
+                            41.150878
+                        ],
+                        [
+                            -8.67131,
+                            41.150824
+                        ],
+                        [
+                            -8.670793,
+                            41.151029
+                        ],
+                        [
+                            -8.670524,
+                            41.150715
+                        ],
+                        [
+                            -8.669906,
+                            41.150845
+                        ],
+                        [
+                            -8.670075,
+                            41.150978
+                        ],
+                        [
+                            -8.670076,
+                            41.151053
+                        ],
+                        [
+                            -8.668989,
+                            41.151458
+                        ],
+                        [
+                            -8.66904,
+                            41.151557
+                        ],
+                        [
+                            -8.668603,
+                            41.15171
+                        ],
+                        [
+                            -8.668512,
+                            41.151641
+                        ],
+                        [
+                            -8.668287,
+                            41.151769
+                        ],
+                        [
+                            -8.667673,
+                            41.15133
+                        ],
+                        [
+                            -8.667406,
+                            41.151238
+                        ],
+                        [
+                            -8.666965,
+                            41.150887
+                        ],
+                        [
+                            -8.667131,
+                            41.150741
+                        ],
+                        [
+                            -8.667382,
+                            41.150702
+                        ],
+                        [
+                            -8.667567,
+                            41.150232
+                        ],
+                        [
+                            -8.667687,
+                            41.149667
+                        ],
+                        [
+                            -8.66771,
+                            41.14911
+                        ],
+                        [
+                            -8.667674,
+                            41.148852
+                        ],
+                        [
+                            -8.667579,
+                            41.148847
+                        ],
+                        [
+                            -8.667573,
+                            41.148661
+                        ],
+                        [
+                            -8.666764,
+                            41.148795
+                        ],
+                        [
+                            -8.666723,
+                            41.148342
+                        ],
+                        [
+                            -8.66642,
+                            41.148397
+                        ],
+                        [
+                            -8.666299,
+                            41.148189
+                        ],
+                        [
+                            -8.665494,
+                            41.14831
+                        ],
+                        [
+                            -8.66542,
+                            41.148281
+                        ],
+                        [
+                            -8.665416,
+                            41.148187
+                        ],
+                        [
+                            -8.666735,
+                            41.14749
+                        ],
+                        [
+                            -8.666929,
+                            41.147486
+                        ],
+                        [
+                            -8.671246,
+                            41.149136
+                        ],
+                        [
+                            -8.672712,
+                            41.149162
+                        ],
+                        [
+                            -8.672868,
+                            41.149292
+                        ],
+                        [
+                            -8.673085,
+                            41.149281
+                        ],
+                        [
+                            -8.673312,
+                            41.149512
+                        ],
+                        [
+                            -8.672954,
+                            41.149653
+                        ],
+                        [
+                            -8.673005,
+                            41.149914
+                        ],
+                        [
+                            -8.673072,
+                            41.14995
+                        ],
+                        [
+                            -8.673572,
+                            41.149941
+                        ],
+                        [
+                            -8.673628,
+                            41.149674
+                        ],
+                        [
+                            -8.674617,
+                            41.149664
+                        ],
+                        [
+                            -8.674622,
+                            41.149851
+                        ],
+                        [
+                            -8.67502,
+                            41.149907
+                        ],
+                        [
+                            -8.674963,
+                            41.150074
+                        ],
+                        [
+                            -8.675297,
+                            41.150229
+                        ],
+                        [
+                            -8.67574,
+                            41.150304
+                        ],
+                        [
+                            -8.675864,
+                            41.150471
+                        ],
+                        [
+                            -8.675689,
+                            41.150568
+                        ],
+                        [
+                            -8.675858,
+                            41.150725
+                        ],
+                        [
+                            -8.676223,
+                            41.15085
+                        ],
+                        [
+                            -8.676289,
+                            41.150971
+                        ],
+                        [
+                            -8.676379,
+                            41.150914
+                        ],
+                        [
+                            -8.676493,
+                            41.151083
+                        ],
+                        [
+                            -8.676131,
+                            41.151313
+                        ],
+                        [
+                            -8.675374,
+                            41.150847
+                        ],
+                        [
+                            -8.675097,
+                            41.15083
+                        ],
+                        [
+                            -8.675075,
+                            41.151555
+                        ],
+                        [
+                            -8.674723,
+                            41.151901
+                        ],
+                        [
+                            -8.674462,
+                            41.151811
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "polygon",
+            "properties": {
+                "id": 26,
+                "segment": "place",
+                "show_polygon": true,
+                "title": "Foz",
+                "description": "Foz, located in the westernmost part of the city, stands out for its maritime fortresses, Sea Life Porto, Pergola’s Viewpoint, built in the 1930’s and also known as \"Promenade des Anglais” as in the French town of Nice, as well as shops and restaurants. It is the most inviting seafront promenade, whether for a leisurely walk, running or a pleasant bike ride.",
+                "photos": [
+                    "/media/26.png",
+                    "/media/%C2%A9Miguel_Nogueira_Foz_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Foz_06_prami_photo.jpg",
+                    "/media/%C2%A9Miguel_Nogueira_Foz_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_polygon.fid--76d6a859_1709562c68b_-7bb3",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.611486,
+                            41.142939
+                        ],
+                        [
+                            -8.610973,
+                            41.142967
+                        ],
+                        [
+                            -8.610943,
+                            41.142884
+                        ],
+                        [
+                            -8.610815,
+                            41.142885
+                        ],
+                        [
+                            -8.610827,
+                            41.1427
+                        ],
+                        [
+                            -8.610541,
+                            41.142654
+                        ],
+                        [
+                            -8.610757,
+                            41.142146
+                        ],
+                        [
+                            -8.611252,
+                            41.141805
+                        ],
+                        [
+                            -8.611779,
+                            41.141711
+                        ],
+                        [
+                            -8.611918,
+                            41.142153
+                        ],
+                        [
+                            -8.611171,
+                            41.142277
+                        ],
+                        [
+                            -8.611202,
+                            41.142371
+                        ],
+                        [
+                            -8.611126,
+                            41.142385
+                        ],
+                        [
+                            -8.611568,
+                            41.142435
+                        ],
+                        [
+                            -8.611642,
+                            41.142866
+                        ],
+                        [
+                            -8.611486,
+                            41.142939
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "polygon",
+            "properties": {
+                "id": 16,
+                "segment": "place",
+                "show_polygon": true,
+                "title": "Sé (Cathedral)",
+                "description": "Built in the highest point in the city, the Sé Cathedral is the most important religious building in Porto. It is located in the neighborhood of Batalha, very close to the walls that once protected the city. The building looks a bit like a fortress with crenels from the outside. The Cathedral sits on a square with a column in the middle. This is where the criminals of Porto were hanged.",
+                "photos": [
+                    "/media/16.png",
+                    "/media/%C2%A9Filipa_Brito_Se_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Miguel_Nogueira_Se_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_polygon.fid--76d6a859_1709562c68b_-7bb2",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.616374,
+                            41.141182
+                        ],
+                        [
+                            -8.616618,
+                            41.14112
+                        ],
+                        [
+                            -8.616852,
+                            41.141343
+                        ],
+                        [
+                            -8.616666,
+                            41.141609
+                        ],
+                        [
+                            -8.615406,
+                            41.141585
+                        ],
+                        [
+                            -8.615474,
+                            41.141066
+                        ],
+                        [
+                            -8.615393,
+                            41.140964
+                        ],
+                        [
+                            -8.615529,
+                            41.140813
+                        ],
+                        [
+                            -8.616305,
+                            41.140792
+                        ],
+                        [
+                            -8.61628,
+                            41.140944
+                        ],
+                        [
+                            -8.616435,
+                            41.140963
+                        ],
+                        [
+                            -8.616448,
+                            41.141147
+                        ],
+                        [
+                            -8.616333,
+                            41.141149
+                        ],
+                        [
+                            -8.616323,
+                            41.141308
+                        ],
+                        [
+                            -8.616374,
+                            41.141182
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "polygon",
+            "properties": {
+                "id": 20,
+                "segment": "place",
+                "show_polygon": true,
+                "title": "Stock Exchange Palace",
+                "description": "The Stock Exchange Palace was built in the 19th century by the city's Trade Association. This Neoclassical style building is located in the Infante D. Henrique Square in the Historical Centre of Porto. The Palácio da Bolsa was declared a National Monument in 1982.",
+                "photos": [
+                    "/media/20.png",
+                    "/media/%C2%A9Filipa_Brito_Palacio_Bolsa_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Palacio_Bolsa_02_prami_photo.jpg",
+                    "/media/%C2%A9Miguel_Nogueira_Palacio_Bolsa_03_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_polygon.fid--76d6a859_1709562c68b_-7bb1",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.582712,
+                            41.163556
+                        ],
+                        [
+                            -8.581623,
+                            41.16286
+                        ],
+                        [
+                            -8.581473,
+                            41.162682
+                        ],
+                        [
+                            -8.581366,
+                            41.162372
+                        ],
+                        [
+                            -8.581613,
+                            41.161474
+                        ],
+                        [
+                            -8.581916,
+                            41.16155
+                        ],
+                        [
+                            -8.58252,
+                            41.15994
+                        ],
+                        [
+                            -8.584414,
+                            41.160381
+                        ],
+                        [
+                            -8.585259,
+                            41.160865
+                        ],
+                        [
+                            -8.585538,
+                            41.161241
+                        ],
+                        [
+                            -8.585659,
+                            41.161638
+                        ],
+                        [
+                            -8.58563,
+                            41.162035
+                        ],
+                        [
+                            -8.585422,
+                            41.162503
+                        ],
+                        [
+                            -8.585226,
+                            41.162441
+                        ],
+                        [
+                            -8.584931,
+                            41.162728
+                        ],
+                        [
+                            -8.584546,
+                            41.162944
+                        ],
+                        [
+                            -8.582712,
+                            41.163556
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "polygon",
+            "properties": {
+                "id": 4,
+                "segment": "place",
+                "show_polygon": true,
+                "title": "Dragão Stadium",
+                "description": "The Dragão Stadium, designed by architect Manuel Salgado and inaugurated in 2003, has been given a 5-star rating by UEFA. It is located at the eastern end of the city of Porto and it is easily accessed from the centre and the airport. Modern and multi-functional, the FC Porto stadium has won a collection of important awards for its architecture and environmental management.",
+                "photos": [
+                    "/media/4.png",
+                    "/media/%C2%A9Miguel_Nogueira_Estadio_Dragao_Capa_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_polygon.fid--76d6a859_1709562c68b_-7bb0",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.608987,
+                            41.14202
+                        ],
+                        [
+                            -8.609595,
+                            41.141288
+                        ],
+                        [
+                            -8.609547,
+                            41.140695
+                        ],
+                        [
+                            -8.609607,
+                            41.140683
+                        ],
+                        [
+                            -8.609356,
+                            41.139894
+                        ],
+                        [
+                            -8.609472,
+                            41.139866
+                        ],
+                        [
+                            -8.609691,
+                            41.140554
+                        ],
+                        [
+                            -8.610058,
+                            41.140523
+                        ],
+                        [
+                            -8.610336,
+                            41.14061
+                        ],
+                        [
+                            -8.61229,
+                            41.140416
+                        ],
+                        [
+                            -8.612276,
+                            41.140343
+                        ],
+                        [
+                            -8.613594,
+                            41.140203
+                        ],
+                        [
+                            -8.613603,
+                            41.140093
+                        ],
+                        [
+                            -8.613806,
+                            41.140068
+                        ],
+                        [
+                            -8.614635,
+                            41.1401
+                        ],
+                        [
+                            -8.615272,
+                            41.139955
+                        ],
+                        [
+                            -8.615949,
+                            41.140027
+                        ],
+                        [
+                            -8.616313,
+                            41.140176
+                        ],
+                        [
+                            -8.616285,
+                            41.140218
+                        ],
+                        [
+                            -8.617637,
+                            41.140573
+                        ],
+                        [
+                            -8.618555,
+                            41.140912
+                        ],
+                        [
+                            -8.618288,
+                            41.141217
+                        ],
+                        [
+                            -8.618543,
+                            41.141336
+                        ],
+                        [
+                            -8.618066,
+                            41.141692
+                        ],
+                        [
+                            -8.617966,
+                            41.142159
+                        ],
+                        [
+                            -8.618116,
+                            41.142353
+                        ],
+                        [
+                            -8.61804,
+                            41.14242
+                        ],
+                        [
+                            -8.618144,
+                            41.142547
+                        ],
+                        [
+                            -8.618066,
+                            41.142579
+                        ],
+                        [
+                            -8.618233,
+                            41.143113
+                        ],
+                        [
+                            -8.61845,
+                            41.143208
+                        ],
+                        [
+                            -8.618501,
+                            41.143302
+                        ],
+                        [
+                            -8.6183,
+                            41.143531
+                        ],
+                        [
+                            -8.618266,
+                            41.144627
+                        ],
+                        [
+                            -8.618179,
+                            41.144738
+                        ],
+                        [
+                            -8.61716,
+                            41.144543
+                        ],
+                        [
+                            -8.616762,
+                            41.144808
+                        ],
+                        [
+                            -8.614802,
+                            41.145605
+                        ],
+                        [
+                            -8.6149,
+                            41.145816
+                        ],
+                        [
+                            -8.613921,
+                            41.14606
+                        ],
+                        [
+                            -8.613642,
+                            41.145862
+                        ],
+                        [
+                            -8.61022,
+                            41.146118
+                        ],
+                        [
+                            -8.607154,
+                            41.146165
+                        ],
+                        [
+                            -8.60716,
+                            41.145816
+                        ],
+                        [
+                            -8.607312,
+                            41.145586
+                        ],
+                        [
+                            -8.607555,
+                            41.145408
+                        ],
+                        [
+                            -8.607394,
+                            41.145147
+                        ],
+                        [
+                            -8.607518,
+                            41.144909
+                        ],
+                        [
+                            -8.607169,
+                            41.144802
+                        ],
+                        [
+                            -8.608107,
+                            41.143331
+                        ],
+                        [
+                            -8.608324,
+                            41.143287
+                        ],
+                        [
+                            -8.60827,
+                            41.142946
+                        ],
+                        [
+                            -8.608527,
+                            41.142221
+                        ],
+                        [
+                            -8.608611,
+                            41.142251
+                        ],
+                        [
+                            -8.608908,
+                            41.141992
+                        ],
+                        [
+                            -8.608987,
+                            41.14202
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "polygon",
+            "properties": {
+                "id": 19,
+                "segment": "place",
+                "show_polygon": true,
+                "title": "Porto Historic Centre – World Heritage",
+                "description": "the Historic Centre of Porto is also the oldest area of the city and it was listed as World Heritage by UNESCO in 1996. Porto is one of the oldest cities in Europe and a city of remarkable universal value due to the large number of historic buildings, which are preserved to this day.",
+                "photos": [
+                    "/media/19.png",
+                    "/media/%C2%A9Filipa_Brito_Ribeira_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_polygon.fid--76d6a859_1709562c68b_-7baf",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -8.629071,
+                            41.146797
+                        ],
+                        [
+                            -8.62906,
+                            41.147129
+                        ],
+                        [
+                            -8.628869,
+                            41.14742
+                        ],
+                        [
+                            -8.628736,
+                            41.147357
+                        ],
+                        [
+                            -8.628703,
+                            41.147398
+                        ],
+                        [
+                            -8.628776,
+                            41.147432
+                        ],
+                        [
+                            -8.628685,
+                            41.147541
+                        ],
+                        [
+                            -8.628503,
+                            41.147454
+                        ],
+                        [
+                            -8.628356,
+                            41.147635
+                        ],
+                        [
+                            -8.628422,
+                            41.147666
+                        ],
+                        [
+                            -8.628357,
+                            41.147744
+                        ],
+                        [
+                            -8.628292,
+                            41.147713
+                        ],
+                        [
+                            -8.628004,
+                            41.14788
+                        ],
+                        [
+                            -8.627196,
+                            41.147998
+                        ],
+                        [
+                            -8.627107,
+                            41.147981
+                        ],
+                        [
+                            -8.627129,
+                            41.147722
+                        ],
+                        [
+                            -8.62699,
+                            41.147691
+                        ],
+                        [
+                            -8.62692,
+                            41.147873
+                        ],
+                        [
+                            -8.626813,
+                            41.147835
+                        ],
+                        [
+                            -8.626646,
+                            41.148128
+                        ],
+                        [
+                            -8.62657,
+                            41.148111
+                        ],
+                        [
+                            -8.626429,
+                            41.148477
+                        ],
+                        [
+                            -8.626754,
+                            41.148548
+                        ],
+                        [
+                            -8.62661,
+                            41.148767
+                        ],
+                        [
+                            -8.625602,
+                            41.148511
+                        ],
+                        [
+                            -8.625605,
+                            41.148433
+                        ],
+                        [
+                            -8.62551,
+                            41.148375
+                        ],
+                        [
+                            -8.625249,
+                            41.148325
+                        ],
+                        [
+                            -8.625156,
+                            41.148397
+                        ],
+                        [
+                            -8.624294,
+                            41.148177
+                        ],
+                        [
+                            -8.624689,
+                            41.147445
+                        ],
+                        [
+                            -8.624949,
+                            41.147502
+                        ],
+                        [
+                            -8.625038,
+                            41.147454
+                        ],
+                        [
+                            -8.626181,
+                            41.147708
+                        ],
+                        [
+                            -8.626266,
+                            41.147493
+                        ],
+                        [
+                            -8.626488,
+                            41.147548
+                        ],
+                        [
+                            -8.626889,
+                            41.14668
+                        ],
+                        [
+                            -8.626328,
+                            41.146528
+                        ],
+                        [
+                            -8.626117,
+                            41.1464
+                        ],
+                        [
+                            -8.625516,
+                            41.146408
+                        ],
+                        [
+                            -8.625228,
+                            41.146562
+                        ],
+                        [
+                            -8.625011,
+                            41.147095
+                        ],
+                        [
+                            -8.624824,
+                            41.147109
+                        ],
+                        [
+                            -8.624605,
+                            41.145617
+                        ],
+                        [
+                            -8.62756,
+                            41.145346
+                        ],
+                        [
+                            -8.628,
+                            41.146016
+                        ],
+                        [
+                            -8.628047,
+                            41.146802
+                        ],
+                        [
+                            -8.629071,
+                            41.146797
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "polygon",
+            "properties": {
+                "id": 7,
+                "segment": "place",
+                "show_polygon": true,
+                "title": "Gardens of Palácio de Cristal",
+                "description": "The Romantic Gardens of Palácio de Cristal, designed in the 19th century by the German landscape architect Émille David, make up a total area of 8 hectares in the centre of Porto. The gardens follow the envelope of the Palácio de Cristal (Crystal Palace), and the result is a beautiful timeless treasure garden.",
+                "photos": [
+                    "/media/7.png",
+                    "/media/%C2%A9Filipa_Brito_Jardins_Palacio_Cristal_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Jardins_Palacio_Cristal_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7bae",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.61068,
+                    41.149911
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 21,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Town Hall",
+                "description": "It is the seat of Porto Municipal Government. The Town Hall chief administrative building houses the local government, namely the Mayor’s office, associated departments, and their employees. The building of the Town Hall started in 1920 but the municipal services only settled in 1957.",
+                "photos": [
+                    "/media/21.png",
+                    "/media/%C2%A9Filipa_Brito_Camara_Municipal_Porto_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Camara_Municipal_Porto_03_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Camara_Municipal_Porto_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7bad",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.625892,
+                    41.146893
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 6,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Super Bock Arena (Rosa Mota Pavilion)",
+                "description": "This dome shaped building was designed by architect José Carlos Loureiro and it hosted several sporting, recreational and cultural events, namely music concerts, theatre, circus, conferences and exhibitions. It was named after the renowned athlete from Porto, the World, Olympic and European champion in marathon running, Rosa Mota.",
+                "photos": [
+                    "/media/6.png",
+                    "/media/%C2%A9Miguel_Nogueira_Pavilhao_Rosa_Mota_Capa_prami_photo.jpg"
+                ],
+                "website": "http://www.superbockarena.pt/",
+                "video": "https://www.youtube.com/embed/yHpXJ2Ogrmo"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7bac",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.621707,
+                    41.143048
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 5,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Old Customs House - Porto Conference Centre",
+                "description": "Porto Customs House Congress Centre sits next to the river Douro and the historical centre. The building’s unique dimension and architecture, designed by Eduardo Souto de Moura, are attributes that make this the ideal venue for corporative, scientific, cultural and commercial events.",
+                "photos": [
+                    "/media/5.png",
+                    "/media/%C2%A9Miguel_Nogueira_Centro_Congressos_Alfandega_01_capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Centro_Congressos_Alfandega_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7bab",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.61461,
+                    41.145677
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 15,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Clérigos Tower",
+                "description": "Clérigos Tower is the foremost undisputed landmark of Porto and a reference in the city's history. It was designed by Italian architect Nicolau Nasoni, in 1753 and it opened doors in 1763, becoming the highest bell tower of Portugal, with over 75 metres. The Clérigos Tower is considered National Monument since 1910.",
+                "photos": [
+                    "/media/15.png",
+                    "/media/%C2%A9Filipa_Brito_Torre_dos_Clerigos_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Torre_dos_Clerigos_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7baa",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.613061,
+                    41.144292
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 17,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Rua das Flores",
+                "description": "Newly renovated, this is one of the trendiest streets in the city. Restaurants, traditional shops and historic buildings make Rua das Flores a must see for visitors and tourists. The houses, marked with coats of arms and decorated with beautiful balconies, still exist today and constitute beautiful examples of the civil architecture of the 17th, 18th and 19th centuries. Also noteworthy is the Misericórdia Church, by Nicolau Nasoni, which has one of the most emblematic baroque façades of Porto.",
+                "photos": [
+                    "/media/17.png",
+                    "/media/%C2%A9Filipa_Brito_Rua_das_Flores_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.606578,
+                    41.14724
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 24,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Majestic Café",
+                "description": "Founded in 1921, the art nouveau style café is considered one of the most beautiful spots in Porto. It was declared Property of Public Interest in 1983 and the city's \"cultural heritage\", which led to the place’s rehabilitation and former splendour in 1994.",
+                "photos": [
+                    "/media/24.png",
+                    "/media/%C2%A9Miguel_Nogueira_Cafe_Majestic_01_capa_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.610816,
+                    41.148319
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 22,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Avenida dos Aliados",
+                "description": "The imposing architecture and its central character turn this Avenue into the city's \"living room\". It has become a location of excellence where the people of Porto gather to celebrate special events. There are granite buildings, many of which are crowned with skylights, domes and pinnacles.",
+                "photos": [
+                    "/media/22.png",
+                    "/media/%C2%A9Miguel_Nogueira_Avenida_Aliados_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.621641,
+                    41.147721
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 27,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Soares dos Reis National Museum",
+                "description": "Founded in 1833, the Antigo Museu Portuense de Pinturas e Estampas (Old Porto Museum of Painting and Prints) was the first public art museum in Portugal and features collections of ceramics, sculptures, engravings, jewelry, furniture, gold and silver work, paintings, textiles and glass.",
+                "photos": [
+                    "/media/27.png",
+                    "/media/%C2%A9Filipa_Brito_Museu_Soares_dos_Reis_01_capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Museu_Soares_dos_Reis_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.610705,
+                    41.142542
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 29,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Guerra Junqueiro House Museum",
+                "description": "This 18th century Baroque style house of Porto designated Casa Museu Guerra Junqueiro was built in the old medieval borough and presents important collections of national and foreign decorative arts that cover the 15th and 19th centuries.",
+                "photos": [
+                    "/media/29.png",
+                    "/media/%C2%A9Miguel_Nogueira_Casa_Museu_Guerra_Junqueiro_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Casa_Museu_Guerra_Junqueiro_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.614542,
+                    41.140749
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 28,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Casa do Infante – Museum",
+                "description": "Casa do Infante gained its name for being the birthplace of Henry the Navigator. It was built to house the Crown in Porto. The museum includes a “Prince Henry the Navigator and the New Worlds” section where visitors can learn about Portuguese maritime discoveries.",
+                "photos": [
+                    "/media/28.png",
+                    "/media/%C2%A9Filipa_Brito_Casa_do_Infante_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Casa_do_Infante_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.625535,
+                    41.159369
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 30,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Marta Ortigão Sampaio House Museum",
+                "description": "The Marta Ortigão Sampaio House Museum is a small museum located in the city of Porto. It was donated to Porto City Hall in 1978 by Marta Ortigão Sampaio, a remarkable figure of Porto society. The museum opened to the public in 1996 and it features permanent exhibitions of paintings, jewelry, furniture and other decorative arts, evoking a \"bourgeois\" environment from the first half of the 20th century.",
+                "photos": [
+                    "/media/30.png",
+                    "/media/%C2%A9Filipa_Brito_Casa_Museu_Marta_Ortigao_Sampaio_03_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Casa_Museu_Marta_Ortigao_Sampaio_02_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.628456,
+                    41.147558
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 31,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Romantic Museum of Quinta da Macieirinha",
+                "description": "The Romantic Museum in Porto recreates a nineteenth-century aristocratic household. The filling of the interior of the magnificent museum is beautifully decorated with painting and antiques. Most of the mansion is open to the public, including the most impressive rooms: the great drawing room, a small chapel and the chamber where Charles Albert of Sardinia died, in 1849.",
+                "photos": [
+                    "/media/31.png",
+                    "/media/%C2%A9Filipa_Brito_Museu_Romantico_Quinta_Macieirinha_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Museu_Romantico_Quinta_Macieirinha_03_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.614542,
+                    41.143707
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 32,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Museum and Church of the Misericórdia of Porto",
+                "description": "The MMIPO - Museum and Church of the Misericórdia of Porto is the only Portuguese museum to take part in the European Museum of the Year Award. It is located at Rua das Flores and it has the largest existing collection of portraits in Portugal (around five hundred), as well as the largest Flemish painting work of art, the \"Fons Vitae\" picture, dated 1520.",
+                "photos": [
+                    "/media/32.png",
+                    "/media/%C2%A9Filipa_Brito_Museu_Igreja_Misericordia_Porto_02_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Museu_Igreja_Misericordia_Porto_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Museu_Igreja_Misericordia_Porto_04_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.615868,
+                    41.144734
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 33,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Portuguese Centre for Photography",
+                "description": "The Portuguese Centre for Photography is headquartered in the former Court of Appeal building. It was created in 1997 by the Ministry of Culture. At present, it is under the tutelage of the General Direction of Archives. It features temporary exhibitions, and a permanent display that comprises a rare and valuable collection of photographic cameras.",
+                "photos": [
+                    "/media/33.png",
+                    "/media/%C2%A9Miguel_Nogueira_Centro_Portugues_Fotografia_01_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7ba0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.61233,
+                    41.140473
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 18,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Ribeira",
+                "description": "The panorama looking across Ribeira make it one of the reference touristic sites in Porto. The houses and the narrow streets frame the Douro River, where Rabelo boats and bridges help create a colourful and unique scenery.",
+                "photos": [
+                    "/media/18.png",
+                    "/media/%C2%A9Filipa_Brito_Ribeira_01_Capa_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7b9f",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.614773,
+                    41.146908
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 34,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Lello Bookshop",
+                "description": "Frequently voted one of the most beautiful bookstores in the world, Livraria Lello features an impressive spiral central staircase, supposedly the inspiration for Harry Potter’s Hogwarts library, as the stunning art deco interior certainly fits a place out of a magic book.",
+                "photos": [
+                    "/media/34.png",
+                    "/media/%C2%A9Filipa_Brito_Livraria_Lello_01_Capa_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Livraria_Lello_02_prami_photo.jpg",
+                    "/media/%C2%A9Filipa_Brito_Livraria_Lello_03_prami_photo.jpg"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "city_poi_point.fid--76d6a859_1709562c68b_-7b9e",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.604793,
+                    41.152532
+                ]
+            },
+            "geometry_name": "point",
+            "properties": {
+                "id": 23,
+                "segment": "place",
+                "show_polygon": false,
+                "title": "Santa Catarina Street",
+                "description": "The Rua de Santa Catarina houses some examples of Art Nouveau. This popular street has an extension of about 1500 meters and it is the main commercial artery of Downtown Porto.",
+                "photos": [
+                    "/media/23.png",
+                    "/media/%C2%A9Miguel_Nogueira_Rua_santa_catarina_01_capa_prami_photo.jpg"
+                ]
+            }
+        }
+    ]
+}
